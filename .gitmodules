@@ -1,0 +1,3 @@
+[submodule "CompressAI"]
+	path = CompressAI
+	url = https://github.com/audreyeternal/CompressAI.git

@@ -1,0 +1,17 @@
+**/*.pdf
+**/*.pptx
+**/tmp/*
+**/*.egg-info/*
+**/.DS_Store
+**/*.pth
+**/*.pt
+**/*.ckpt
+**/*.pkl
+**/*.onnx
+**/__pycache__/*
+**/data/*
+experiment/*
+**/log/*
+**/.vscode/*
+**/checkpoint/*
+**/runs/*
