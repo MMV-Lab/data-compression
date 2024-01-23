@@ -8,6 +8,7 @@
 **/*.ckpt
 **/*.pkl
 **/*.onnx
+**/*.csv
 **/__pycache__/*
 **/data/*
 experiment/*
@@ -15,3 +16,4 @@ experiment/*
 **/.vscode/*
 **/checkpoint/*
 **/runs/*
+**/lightning_logs/*
